@@ -18,7 +18,7 @@ Here are some useful open-source tools
 	> [Responder](https://github.com/SpiderLabs/Responder) – SMB and NetBIOS poisoning tool<br>
 - Digital Forensics & Incident Response
 	> [Autopsy](https://github.com/sleuthkit/autopsy) – Digital forensic analysis platform<br>
-	> [Sysmon](hhttps://learn.microsoft.com/en-us/sysinternals/downloads/sysmon) – Windows system monitoring tool for event logging<br>
+	> [Sysmon](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon) – Windows system monitoring tool for event logging<br>
 	> [Volatility](https://github.com/volatilityfoundation/volatility) – Memory forensics framework<br>
 	> [The Sleuth Kit (TSK)](https://github.com/sleuthkit/sleuthkit) – Command-line forensic toolkit<br>
 - Cryptography & Password Cracking
